@@ -47,7 +47,7 @@ function About() {
                         <p><span className="fw-bold">Age: </span> {calculateAge()}</p>
                     </div>
                     </div>
-                    <a href="Pdf/YASSIR_KEZZI__Lebenslauf_Ausbilldung.pdf" className="btn btn-primary btn-lg px-4">
+                    <a href="/Pdf/CV_yassir-kezzi.pdf" className="btn btn-primary btn-lg px-4">
                     <span className="fw-bold">Resume</span>
                     </a>
                 </div>
