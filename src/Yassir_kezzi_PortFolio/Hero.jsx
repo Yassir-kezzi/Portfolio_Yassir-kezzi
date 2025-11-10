@@ -23,7 +23,7 @@ const Hero = () => {
                 <i className="bi bi-github"></i>
               </a>
               {/* <a className="btn btn-dark rounded-circle" href="https://youtu.be/YXwURi1PgWM" target="_blank" > */}
-                <i className="bi bi-youtube"></i>
+                {/* <i className="bi bi-youtube"></i> */}
               {/* </a> */}
             </div>
           </div>

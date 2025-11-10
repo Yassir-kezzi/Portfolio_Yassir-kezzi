@@ -30,9 +30,9 @@ let Footer = () => {
               <a href="https://github.com/Yassir-kezzi" className="btn btn-outline-light rounded-circle me-2" target="_blank" rel="noopener noreferrer">
                 <i className="bi bi-github"></i>
               </a>
-              <a className="btn btn-outline-light rounded-circle me-2" href="https://youtu.be/YXwURi1PgWM" target="_blank" rel="noopener noreferrer">
+              {/* <a className="btn btn-outline-light rounded-circle me-2" href="https://youtu.be/YXwURi1PgWM" target="_blank" rel="noopener noreferrer">
                 <i className="bi bi-youtube"></i>
-              </a>
+              </a> */}
               <a href="mailto:kezziyassir005@gmail.com" className="btn btn-outline-light rounded-circle">
                 <i className="bi bi-envelope"></i>
               </a>
