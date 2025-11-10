@@ -1,4 +1,4 @@
-const Navbar = () => {
+let Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm">
       <div className="container">

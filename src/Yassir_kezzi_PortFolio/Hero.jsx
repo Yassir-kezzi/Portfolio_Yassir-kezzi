@@ -22,9 +22,9 @@ const Hero = () => {
               <a className="btn btn-dark rounded-circle me-2" href="https://github.com/Yassir-kezzi" target="_blank" >
                 <i className="bi bi-github"></i>
               </a>
-              <a className="btn btn-dark rounded-circle" href="https://youtu.be/YXwURi1PgWM" target="_blank" >
+              {/* <a className="btn btn-dark rounded-circle" href="https://youtu.be/YXwURi1PgWM" target="_blank" > */}
                 <i className="bi bi-youtube"></i>
-              </a>
+              {/* </a> */}
             </div>
           </div>
           <div className="col-lg-6 order-lg-2 order-1 text-center mb-5 mb-lg-0">

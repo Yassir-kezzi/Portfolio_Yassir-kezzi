@@ -1,5 +1,5 @@
 
-function Footer() {
+let Footer = () => {
   return (
     <footer className="bg-dark text-white py-5">
       <div className="container">
