@@ -45,7 +45,7 @@ let About = () => {
                         <p><span className="fw-bold">Age: </span> {calculateAge()}</p>
                     </div>
                     </div>
-                    <a href="/public/Pdf/CV_Yassir_Kezzi.pdf" target="blank" className="btn btn-primary btn-lg px-4">
+                    <a href="/Pdf/CV_Yassir_Kezzi.pdf" target="blank" className="btn btn-primary btn-lg px-4">
                     <span className="fw-bold">Resume</span>
                     </a>
                 </div>
